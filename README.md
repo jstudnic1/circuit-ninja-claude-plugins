@@ -1,6 +1,6 @@
 # Circuit Ninja for Claude
 
-The company's Claude skills, kept up to date: version 1.0.1. This repository is written by `twin skills plugin`
+The company's Claude skills, kept up to date: version 1.0.2. This repository is written by `twin skills plugin`
 on every release of Circuit Ninja's Dojo, so edits made here are overwritten. Change a skill in the company
 repository (`company-skills/`) or from Claude with the `publish-to-dojo` skill.
 
@@ -34,6 +34,7 @@ Then turn on updates: **/plugin > Marketplaces > circuit-ninja-dojo > Enable aut
 | `company-context` | Start any work: the company's and your team's instructions, and the skill for the task |
 | `company-brief` | Company brief |
 | `company-numbers` | Company numbers |
+| `cross-check` | Cross-check |
 | `event-prep` | Event prep |
 | `failure-analysis` | Failure analysis |
 | `inbox-follow-ups` | Inbox follow-ups |
