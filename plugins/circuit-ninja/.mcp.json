@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "circuit-ninja": {
+      "type": "http",
+      "url": "https://dnpitebsickhd.cloudfront.net/mcp"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # Circuit Ninja for Claude
 
-The company's Claude skills, kept up to date: version 1.0.0. This repository is written by `twin skills plugin`
+The company's Claude skills, kept up to date: version 1.0.1. This repository is written by `twin skills plugin`
 on every release of Circuit Ninja's Dojo, so edits made here are overwritten. Change a skill in the company
 repository (`company-skills/`) or from Claude with the `publish-to-dojo` skill.
 
