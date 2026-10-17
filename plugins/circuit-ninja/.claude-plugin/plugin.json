@@ -1,0 +1,18 @@
+{
+  "name": "circuit-ninja",
+  "displayName": "Circuit Ninja",
+  "version": "1.0.0",
+  "description": "Circuit Ninja's Dojo skills for Claude: the company's and your team's instructions, the skill for the work, and corrections that every colleague's Claude learns. Needs the Circuit Ninja connector.",
+  "author": {
+    "name": "Circuit Ninja"
+  },
+  "keywords": [
+    "circuit-ninja",
+    "dojo",
+    "pcb"
+  ],
+  "metadata": {
+    "contentHash": "1b714a69b27daecc"
+  },
+  "repository": "https://github.com/jstudnic1/circuit-ninja-claude-plugins"
+}

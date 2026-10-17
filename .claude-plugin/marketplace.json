@@ -1,0 +1,14 @@
+{
+  "name": "circuit-ninja-dojo",
+  "description": "Circuit Ninja's company skills for Claude, from Dojo.",
+  "owner": {
+    "name": "Circuit Ninja"
+  },
+  "plugins": [
+    {
+      "name": "circuit-ninja",
+      "source": "./plugins/circuit-ninja",
+      "description": "Circuit Ninja's Dojo skills for Claude: the company's and your team's instructions, the skill for the work, and corrections that every colleague's Claude learns. Needs the Circuit Ninja connector."
+    }
+  ]
+}
