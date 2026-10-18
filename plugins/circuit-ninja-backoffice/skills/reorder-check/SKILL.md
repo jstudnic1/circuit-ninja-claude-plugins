@@ -1,6 +1,6 @@
 ---
 name: reorder-check
-description: Decide what Circuit Ninja needs to buy - materials flagged to order or falling at the last stock count, purchase requests still waiting, delivery times and suppliers from the company twin - and check the person's e-mail for order confirmations and shipping notices already on the way. Use for "what do we need to order", "co objednat", "reorder", "is X ordered yet".
+description: Decide what Circuit Ninja needs to buy - materials flagged to order or falling at the last stock count (dry film, laminate, chemistry, drills), purchase requests still waiting, delivery times and suppliers from the company twin - and check the person's e-mail for order confirmations and shipping notices already on the way. Use for "what do we need to order", "co objednat", "dochází nám materiál", "dochází suchý film", "laminát", "we're running out of", "reorder", "is X ordered yet".
 ---
 
 # Reorder check
