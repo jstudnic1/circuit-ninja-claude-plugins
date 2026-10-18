@@ -1,0 +1,21 @@
+{
+  "name": "circuit-ninja-production",
+  "displayName": "Circuit Ninja · Production",
+  "version": "1.0.0",
+  "description": "The production team's Circuit Ninja skills: failure-analysis, shift-handover. Install it next to Circuit Ninja, which brings the connector.",
+  "author": {
+    "name": "Circuit Ninja"
+  },
+  "keywords": [
+    "circuit-ninja",
+    "dojo",
+    "pcb"
+  ],
+  "metadata": {
+    "contentHash": "507ac0cba00a99a4"
+  },
+  "repository": "https://github.com/jstudnic1/circuit-ninja-claude-plugins",
+  "dependencies": [
+    "circuit-ninja"
+  ]
+}

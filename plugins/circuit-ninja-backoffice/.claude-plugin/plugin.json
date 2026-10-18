@@ -1,0 +1,21 @@
+{
+  "name": "circuit-ninja-backoffice",
+  "displayName": "Circuit Ninja · Backoffice",
+  "version": "1.0.0",
+  "description": "The backoffice team's Circuit Ninja skills: reorder-check. Install it next to Circuit Ninja, which brings the connector.",
+  "author": {
+    "name": "Circuit Ninja"
+  },
+  "keywords": [
+    "circuit-ninja",
+    "dojo",
+    "pcb"
+  ],
+  "metadata": {
+    "contentHash": "a04a8469727fb8a2"
+  },
+  "repository": "https://github.com/jstudnic1/circuit-ninja-claude-plugins",
+  "dependencies": [
+    "circuit-ninja"
+  ]
+}

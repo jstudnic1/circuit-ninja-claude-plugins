@@ -1,0 +1,21 @@
+{
+  "name": "circuit-ninja-management",
+  "displayName": "Circuit Ninja · Management",
+  "version": "1.0.0",
+  "description": "The management team's Circuit Ninja skills: cross-check, weekly-review. Install it next to Circuit Ninja, which brings the connector.",
+  "author": {
+    "name": "Circuit Ninja"
+  },
+  "keywords": [
+    "circuit-ninja",
+    "dojo",
+    "pcb"
+  ],
+  "metadata": {
+    "contentHash": "4f220544fe812ad0"
+  },
+  "repository": "https://github.com/jstudnic1/circuit-ninja-claude-plugins",
+  "dependencies": [
+    "circuit-ninja"
+  ]
+}

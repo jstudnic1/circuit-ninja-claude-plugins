@@ -1,6 +1,6 @@
 {
   "name": "circuit-ninja-dojo",
-  "description": "Circuit Ninja's company skills for Claude, from Dojo.",
+  "description": "Circuit Ninja's company skills for Claude, from Dojo: Circuit Ninja for everyone, and a plugin for each team.",
   "owner": {
     "name": "Circuit Ninja"
   },
@@ -8,7 +8,32 @@
     {
       "name": "circuit-ninja",
       "source": "./plugins/circuit-ninja",
-      "description": "Circuit Ninja's Dojo skills for Claude: the company's and your team's instructions, the skill for the work, and corrections that every colleague's Claude learns. Needs the Circuit Ninja connector."
+      "description": "Circuit Ninja's Dojo skills for everyone: the company's and your team's instructions, the skill for the work, and corrections that every colleague's Claude learns. Brings the Circuit Ninja connector. Add your team's plugin next to it."
+    },
+    {
+      "name": "circuit-ninja-production",
+      "source": "./plugins/circuit-ninja-production",
+      "description": "The production team's Circuit Ninja skills: failure-analysis, shift-handover. Install it next to Circuit Ninja, which brings the connector."
+    },
+    {
+      "name": "circuit-ninja-backoffice",
+      "source": "./plugins/circuit-ninja-backoffice",
+      "description": "The backoffice team's Circuit Ninja skills: reorder-check. Install it next to Circuit Ninja, which brings the connector."
+    },
+    {
+      "name": "circuit-ninja-sales",
+      "source": "./plugins/circuit-ninja-sales",
+      "description": "The sales team's Circuit Ninja skills: company-brief, order-status, quote-reply. Install it next to Circuit Ninja, which brings the connector."
+    },
+    {
+      "name": "circuit-ninja-marketing",
+      "source": "./plugins/circuit-ninja-marketing",
+      "description": "The marketing team's Circuit Ninja skills: event-prep. Install it next to Circuit Ninja, which brings the connector."
+    },
+    {
+      "name": "circuit-ninja-management",
+      "source": "./plugins/circuit-ninja-management",
+      "description": "The management team's Circuit Ninja skills: cross-check, weekly-review. Install it next to Circuit Ninja, which brings the connector."
     }
   ]
 }
