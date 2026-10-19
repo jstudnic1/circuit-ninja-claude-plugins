@@ -33,7 +33,7 @@
     {
       "name": "circuit-ninja-management",
       "source": "./plugins/circuit-ninja-management",
-      "description": "The management team's Circuit Ninja skills: cross-check, weekly-review. Install it next to Circuit Ninja, which brings the connector."
+      "description": "The management team's Circuit Ninja skills: capture-decisions, cross-check, weekly-review. Install it next to Circuit Ninja, which brings the connector."
     }
   ]
 }

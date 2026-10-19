@@ -1,8 +1,8 @@
 {
   "name": "circuit-ninja-management",
   "displayName": "Circuit Ninja · Management",
-  "version": "1.0.0",
-  "description": "The management team's Circuit Ninja skills: cross-check, weekly-review. Install it next to Circuit Ninja, which brings the connector.",
+  "version": "1.0.1",
+  "description": "The management team's Circuit Ninja skills: capture-decisions, cross-check, weekly-review. Install it next to Circuit Ninja, which brings the connector.",
   "author": {
     "name": "Circuit Ninja"
   },
@@ -12,7 +12,7 @@
     "pcb"
   ],
   "metadata": {
-    "contentHash": "4f220544fe812ad0"
+    "contentHash": "261118c940015e70"
   },
   "repository": "https://github.com/jstudnic1/circuit-ninja-claude-plugins",
   "dependencies": [

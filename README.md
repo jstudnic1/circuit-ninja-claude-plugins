@@ -17,7 +17,7 @@ the ones you use.
 | **Circuit Ninja · Backoffice** (`circuit-ninja-backoffice`) | backoffice | 1.0.1 | `reorder-check` |
 | **Circuit Ninja · Sales** (`circuit-ninja-sales`) | sales | 1.0.0 | `company-brief`, `order-status`, `quote-reply` |
 | **Circuit Ninja · Marketing** (`circuit-ninja-marketing`) | marketing | 1.0.0 | `event-prep` |
-| **Circuit Ninja · Management** (`circuit-ninja-management`) | management | 1.0.0 | `cross-check`, `weekly-review` |
+| **Circuit Ninja · Management** (`circuit-ninja-management`) | management | 1.0.1 | `capture-decisions`, `cross-check`, `weekly-review` |
 
 No team plugin yet for development: install Circuit Ninja alone, and Claude offers other teams' skills when the work needs them.
 
@@ -67,6 +67,7 @@ Circuit Ninja with it.
 | `order-status` | Order status | sales, production, backoffice | `circuit-ninja-sales` |
 | `quote-reply` | Quote reply | sales | `circuit-ninja-sales` |
 | `event-prep` | Event prep | marketing, sales, management | `circuit-ninja-marketing` |
+| `capture-decisions` | Capture decisions | management | `circuit-ninja-management` |
 | `cross-check` | Cross-check | management, production | `circuit-ninja-management` |
 | `weekly-review` | Weekly review | management | `circuit-ninja-management` |
 
