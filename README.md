@@ -12,7 +12,7 @@ the ones you use.
 
 | plugin | for | version | skills |
 |---|---|---|---|
-| **Circuit Ninja** (`circuit-ninja`) | everyone | 1.0.3 | `company-context`, `company-numbers`, `inbox-follow-ups`, `morning-brief`, `ninja-onboard`, `publish-to-dojo`, `teach-the-twin` |
+| **Circuit Ninja** (`circuit-ninja`) | everyone | 1.0.4 | `company-context`, `company-numbers`, `inbox-follow-ups`, `morning-brief`, `ninja-onboard`, `publish-to-dojo`, `teach-the-twin` |
 | **Circuit Ninja · Production** (`circuit-ninja-production`) | production | 1.0.0 | `failure-analysis`, `shift-handover` |
 | **Circuit Ninja · Backoffice** (`circuit-ninja-backoffice`) | backoffice | 1.0.1 | `reorder-check` |
 | **Circuit Ninja · Sales** (`circuit-ninja-sales`) | sales | 1.0.0 | `company-brief`, `order-status`, `quote-reply` |

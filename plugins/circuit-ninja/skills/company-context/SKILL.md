@@ -6,7 +6,7 @@ description: 'Start work at Circuit Ninja with the company''s context from the C
 # Work at Circuit Ninja
 
 1. Once per conversation, call `Circuit Ninja:my_context`. Follow the company's and the team's instructions it returns.
-2. Before multi-step work, call `Circuit Ninja:suggest_skills` with one generic line about the task, without names or contact details. If a skill fits, load it with `Circuit Ninja:read_skill`, follow it and say which skill you use.
+2. Before multi-step work, call `Circuit Ninja:suggest_skills` with one generic line about the task, without names or contact details. If a skill fits, load it with `Circuit Ninja:read_skill`, follow it and say which skill you use. When the person corrects what it produced, call `Circuit Ninja:record_skill_feedback`: its owner makes the next version from that.
 3. Each Circuit Ninja skill ships in one plugin: Circuit Ninja for everyone, or a team's (Circuit Ninja · Sales, ...). If the skill that fits is not among your loaded skills, use it through `Circuit Ninja:read_skill` all the same. When the work is done, offer once to add its plugin, the way the result says, so next time Claude has it without asking.
 4. Numbers come only from the connector's tools, with the SQL behind them.
 
