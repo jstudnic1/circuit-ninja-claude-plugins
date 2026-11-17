@@ -13,12 +13,12 @@
     {
       "name": "circuit-ninja-production",
       "source": "./plugins/circuit-ninja-production",
-      "description": "The production team's Circuit Ninja skills: failure-analysis, shift-handover. Install it next to Circuit Ninja, which brings the connector."
+      "description": "The production team's Circuit Ninja skills: complaint-8d, failure-analysis, machine-down, shift-handover. Install it next to Circuit Ninja, which brings the connector."
     },
     {
       "name": "circuit-ninja-backoffice",
       "source": "./plugins/circuit-ninja-backoffice",
-      "description": "The backoffice team's Circuit Ninja skills: reorder-check. Install it next to Circuit Ninja, which brings the connector."
+      "description": "The backoffice team's Circuit Ninja skills: reorder-check, supplier-rfq. Install it next to Circuit Ninja, which brings the connector."
     },
     {
       "name": "circuit-ninja-sales",

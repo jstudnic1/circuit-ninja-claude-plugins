@@ -13,8 +13,8 @@ the ones you use.
 | plugin | for | version | skills |
 |---|---|---|---|
 | **Circuit Ninja** (`circuit-ninja`) | everyone | 1.0.5 | `company-context`, `company-numbers`, `inbox-follow-ups`, `morning-brief`, `ninja-onboard`, `publish-to-dojo`, `purchase-request`, `teach-the-twin` |
-| **Circuit Ninja · Production** (`circuit-ninja-production`) | production | 1.0.0 | `failure-analysis`, `shift-handover` |
-| **Circuit Ninja · Backoffice** (`circuit-ninja-backoffice`) | backoffice | 1.0.1 | `reorder-check` |
+| **Circuit Ninja · Production** (`circuit-ninja-production`) | production | 1.0.1 | `complaint-8d`, `failure-analysis`, `machine-down`, `shift-handover` |
+| **Circuit Ninja · Backoffice** (`circuit-ninja-backoffice`) | backoffice | 1.0.2 | `reorder-check`, `supplier-rfq` |
 | **Circuit Ninja · Sales** (`circuit-ninja-sales`) | sales | 1.0.0 | `company-brief`, `order-status`, `quote-reply` |
 | **Circuit Ninja · Marketing** (`circuit-ninja-marketing`) | marketing | 1.0.0 | `event-prep` |
 | **Circuit Ninja · Management** (`circuit-ninja-management`) | management | 1.0.1 | `capture-decisions`, `cross-check`, `weekly-review` |
@@ -61,9 +61,12 @@ Circuit Ninja with it.
 | `publish-to-dojo` | Publish a skill to Dojo | everyone | `circuit-ninja` |
 | `purchase-request` | Purchase request | everyone | `circuit-ninja` |
 | `teach-the-twin` | Teach the twin | everyone | `circuit-ninja` |
+| `complaint-8d` | Complaint and 8D | production, sales, management | `circuit-ninja-production` |
 | `failure-analysis` | Failure analysis | production, development, management | `circuit-ninja-production` |
+| `machine-down` | Machine down | production, development | `circuit-ninja-production` |
 | `shift-handover` | Shift handover | production | `circuit-ninja-production` |
 | `reorder-check` | Reorder check | backoffice, production | `circuit-ninja-backoffice` |
+| `supplier-rfq` | Supplier RFQ | backoffice, production, development | `circuit-ninja-backoffice` |
 | `company-brief` | Company brief | sales, marketing, management | `circuit-ninja-sales` |
 | `order-status` | Order status | sales, production, backoffice | `circuit-ninja-sales` |
 | `quote-reply` | Quote reply | sales | `circuit-ninja-sales` |
