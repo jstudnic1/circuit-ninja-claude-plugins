@@ -14,7 +14,7 @@ the ones you use.
 |---|---|---|---|
 | **Circuit Ninja** (`circuit-ninja`) | everyone | 1.0.6 | `company-context`, `company-numbers`, `inbox-follow-ups`, `morning-brief`, `ninja-onboard`, `publish-to-dojo`, `purchase-request`, `teach-the-twin` |
 | **Circuit Ninja · Production** (`circuit-ninja-production`) | production | 1.0.1 | `complaint-8d`, `failure-analysis`, `machine-down`, `shift-handover` |
-| **Circuit Ninja · Backoffice** (`circuit-ninja-backoffice`) | backoffice | 1.0.2 | `reorder-check`, `supplier-rfq` |
+| **Circuit Ninja · Backoffice** (`circuit-ninja-backoffice`) | backoffice | 1.0.3 | `invoice-coding`, `reorder-check`, `supplier-rfq` |
 | **Circuit Ninja · Sales** (`circuit-ninja-sales`) | sales | 1.0.1 | `company-brief`, `order-status`, `quote-reply`, `support-reply` |
 | **Circuit Ninja · Marketing** (`circuit-ninja-marketing`) | marketing | 1.0.0 | `event-prep` |
 | **Circuit Ninja · Management** (`circuit-ninja-management`) | management | 1.0.1 | `capture-decisions`, `cross-check`, `weekly-review` |
@@ -65,6 +65,7 @@ Circuit Ninja with it.
 | `failure-analysis` | Failure analysis | production, development, management | `circuit-ninja-production` |
 | `machine-down` | Machine down | production, development | `circuit-ninja-production` |
 | `shift-handover` | Shift handover | production | `circuit-ninja-production` |
+| `invoice-coding` | Invoice coding | backoffice, management | `circuit-ninja-backoffice` |
 | `reorder-check` | Reorder check | backoffice, production | `circuit-ninja-backoffice` |
 | `supplier-rfq` | Supplier RFQ | backoffice, production, development | `circuit-ninja-backoffice` |
 | `company-brief` | Company brief | sales, marketing, management | `circuit-ninja-sales` |

@@ -18,7 +18,7 @@
     {
       "name": "circuit-ninja-backoffice",
       "source": "./plugins/circuit-ninja-backoffice",
-      "description": "The backoffice team's Circuit Ninja skills: reorder-check, supplier-rfq. Install it next to Circuit Ninja, which brings the connector."
+      "description": "The backoffice team's Circuit Ninja skills: invoice-coding, reorder-check, supplier-rfq. Install it next to Circuit Ninja, which brings the connector."
     },
     {
       "name": "circuit-ninja-sales",

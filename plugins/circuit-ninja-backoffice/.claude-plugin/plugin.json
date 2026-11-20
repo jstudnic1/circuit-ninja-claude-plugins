@@ -1,8 +1,8 @@
 {
   "name": "circuit-ninja-backoffice",
   "displayName": "Circuit Ninja · Backoffice",
-  "version": "1.0.2",
-  "description": "The backoffice team's Circuit Ninja skills: reorder-check, supplier-rfq. Install it next to Circuit Ninja, which brings the connector.",
+  "version": "1.0.3",
+  "description": "The backoffice team's Circuit Ninja skills: invoice-coding, reorder-check, supplier-rfq. Install it next to Circuit Ninja, which brings the connector.",
   "author": {
     "name": "Circuit Ninja"
   },
@@ -12,7 +12,7 @@
     "pcb"
   ],
   "metadata": {
-    "contentHash": "c8bdbe25c413bcfa"
+    "contentHash": "392e8fcaa0946851"
   },
   "repository": "https://github.com/jstudnic1/circuit-ninja-claude-plugins",
   "dependencies": [
