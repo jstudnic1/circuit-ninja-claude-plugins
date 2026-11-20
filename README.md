@@ -15,7 +15,7 @@ the ones you use.
 | **Circuit Ninja** (`circuit-ninja`) | everyone | 1.0.5 | `company-context`, `company-numbers`, `inbox-follow-ups`, `morning-brief`, `ninja-onboard`, `publish-to-dojo`, `purchase-request`, `teach-the-twin` |
 | **Circuit Ninja · Production** (`circuit-ninja-production`) | production | 1.0.1 | `complaint-8d`, `failure-analysis`, `machine-down`, `shift-handover` |
 | **Circuit Ninja · Backoffice** (`circuit-ninja-backoffice`) | backoffice | 1.0.2 | `reorder-check`, `supplier-rfq` |
-| **Circuit Ninja · Sales** (`circuit-ninja-sales`) | sales | 1.0.0 | `company-brief`, `order-status`, `quote-reply` |
+| **Circuit Ninja · Sales** (`circuit-ninja-sales`) | sales | 1.0.1 | `company-brief`, `order-status`, `quote-reply`, `support-reply` |
 | **Circuit Ninja · Marketing** (`circuit-ninja-marketing`) | marketing | 1.0.0 | `event-prep` |
 | **Circuit Ninja · Management** (`circuit-ninja-management`) | management | 1.0.1 | `capture-decisions`, `cross-check`, `weekly-review` |
 
@@ -70,6 +70,7 @@ Circuit Ninja with it.
 | `company-brief` | Company brief | sales, marketing, management | `circuit-ninja-sales` |
 | `order-status` | Order status | sales, production, backoffice | `circuit-ninja-sales` |
 | `quote-reply` | Quote reply | sales | `circuit-ninja-sales` |
+| `support-reply` | Support reply | sales, backoffice, management | `circuit-ninja-sales` |
 | `event-prep` | Event prep | marketing, sales, management | `circuit-ninja-marketing` |
 | `capture-decisions` | Capture decisions | management | `circuit-ninja-management` |
 | `cross-check` | Cross-check | management, production | `circuit-ninja-management` |

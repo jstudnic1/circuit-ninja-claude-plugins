@@ -1,8 +1,8 @@
 {
   "name": "circuit-ninja-sales",
   "displayName": "Circuit Ninja · Sales",
-  "version": "1.0.0",
-  "description": "The sales team's Circuit Ninja skills: company-brief, order-status, quote-reply. Install it next to Circuit Ninja, which brings the connector.",
+  "version": "1.0.1",
+  "description": "The sales team's Circuit Ninja skills: company-brief, order-status, quote-reply, support-reply. Install it next to Circuit Ninja, which brings the connector.",
   "author": {
     "name": "Circuit Ninja"
   },
@@ -12,7 +12,7 @@
     "pcb"
   ],
   "metadata": {
-    "contentHash": "06d725ba0e8485cc"
+    "contentHash": "9377f35619185be0"
   },
   "repository": "https://github.com/jstudnic1/circuit-ninja-claude-plugins",
   "dependencies": [

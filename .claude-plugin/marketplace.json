@@ -23,7 +23,7 @@
     {
       "name": "circuit-ninja-sales",
       "source": "./plugins/circuit-ninja-sales",
-      "description": "The sales team's Circuit Ninja skills: company-brief, order-status, quote-reply. Install it next to Circuit Ninja, which brings the connector."
+      "description": "The sales team's Circuit Ninja skills: company-brief, order-status, quote-reply, support-reply. Install it next to Circuit Ninja, which brings the connector."
     },
     {
       "name": "circuit-ninja-marketing",
